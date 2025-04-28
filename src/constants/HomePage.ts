@@ -30,7 +30,7 @@ export const CHANCE_DATA = [
     },
     {
         bg: BG2,
-        header: 'Will Bershire Go up in 2025',
+        header: 'Will Berkshire Hathaway Go up in 2025',
         volume: '613',
         percentage: 30
     },

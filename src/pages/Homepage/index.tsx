@@ -97,7 +97,7 @@ function HomePage() {
                             <div className="relative h-[80px]">
                                 <img src={BG3} className="w-full h-full object-cover" />
                                 <div className="absolute inset-0 flex justify-between items-center text-white p-4 bg-black/30">
-                                    <span className='text-lg text-white font-semibold'>Stanley Cup Champion 2024</span>
+                                    <span className='text-lg text-white font-semibold'>Stanley Cup Champion 2025</span>
                                 </div>
                             </div>
                             <div className="bg-white px-2 mb-2 py-1">
