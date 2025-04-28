@@ -55,6 +55,10 @@ const Modal: React.FC<ModalProps> = ({ isOpen, onClose }) => {
                     <p className="mt-4">Pollievre here: 0xF5adA39dA12AC611eAd2361Eb4c87B6A8F84739B</p>
                     <p className="mt-4">Mark Carney here: 0x342a6E47DaFcEdca1F2388B9F24EecF0dDf8530e</p>
                     <p className="mt-4">USDC on ETH L1 Only</p>
+                    <p className="mt-4">Max bet size is 500USDC</p>
+
+
+
 
                     <p className="mt-4">Or if you are blockchain noob; etransfer your bookie.</p>
 
