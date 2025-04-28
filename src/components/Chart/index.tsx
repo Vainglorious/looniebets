@@ -6,18 +6,18 @@ ChartJS.register(CategoryScale, LinearScale, PointElement, LineElement, Title, T
 
 
 const chartData = {
-    labels: ['January', 'February', 'March', 'April', 'May', 'June', 'July'],
+    labels: ['October', 'November', 'December', 'January', 'February', 'March', 'April'],
     datasets: [
         {
-            label: 'Sales',
-            data: [65, 59, 80, 81, 56, 55, 40],
+            label: 'Peter Poilievre',
+            data: [80, 65, 50, 37, 35, 15, 20],
             borderColor: 'rgba(75,192,192,1)',
             backgroundColor: 'rgba(75,192,192,0.2)',
             fill: true,
         },
         {
-            label: 'Product',
-            data: [12, 15, 89, 25, 50, 45, 80],
+            label: 'Mark Carney',
+            data: [20, 35, 50, 63, 65, 85, 80],
             borderColor: 'rgba(75,192,19,1)',
             backgroundColor: 'rgba(175,192,192,0.2)',
             fill: true,

@@ -121,7 +121,7 @@ function HomePage() {
                                 }
                             </div>
                             <div className="bg-white p-2 border-t-[1px] text-sm text-gray-400">
-                                <span>$40,159 volume</span>
+                                <span>$159 volume</span>
                             </div>
                         </div>
                     </div>

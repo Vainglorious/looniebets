@@ -10,20 +10,14 @@ export const BET_DATA = [
     {
         avatar: Avatar1,
         name: 'Peter Poilievre',
-        volume: '125,576',
-        percentage: 44
+        volume: '1,576',
+        percentage: 20
     },
     {
         avatar: Avatar2,
-        name: 'Justin Trudeau',
-        volume: '75,136',
-        percentage: 25
-    },
-    {
-        avatar: Avatar3,
-        name: 'Jagmeet Singh',
-        volume: '14,535',
-        percentage: 30
+        name: 'Mark Carney',
+        volume: '1,136',
+        percentage: 80
     },
 ];
 
@@ -31,13 +25,13 @@ export const CHANCE_DATA = [
     {
         bg: BG1,
         header: 'Will Trump impose 25% tariff on Canada?',
-        volume: '1,355',
+        volume: '55',
         percentage: 30
     },
     {
         bg: BG2,
-        header: 'Will Justin Trudeau Drop out before the Election',
-        volume: '15,3613',
+        header: 'Will Bershire Go up in 2025',
+        volume: '613',
         percentage: 30
     },
 ];

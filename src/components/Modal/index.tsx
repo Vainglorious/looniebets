@@ -40,10 +40,10 @@ const Modal: React.FC<ModalProps> = ({ isOpen, onClose }) => {
             <div className="fixed inset-0 flex justify-center items-center">
                 <div
                     ref={modalRef}
-                    className="bg-white rounded-lg p-6 w-80 md:w-96 relative"
-                >
+                    className="bg-white rounded-lg p-6 w-[60%] max-w-2xl relative"
+                    >
                     <div className="flex justify-between items-center">
-                        <h2 className="text-lg font-bold">Welcome</h2>
+                        <h2 className="text-lg font-bold">Welcome to Loonie Bets</h2>
                         <button
                             className="text-black text-xl absolute top-0 right-2"
                             onClick={onClose}
@@ -51,7 +51,15 @@ const Modal: React.FC<ModalProps> = ({ isOpen, onClose }) => {
                             &times;
                         </button>
                     </div>
+                    <p className="mt-4">Sorry our Blockchain servers are currently down...</p>
+                    <p className="mt-4">Pollievre here: 0xF5adA39dA12AC611eAd2361Eb4c87B6A8F84739B</p>
+                    <p className="mt-4">Mark Carney here: 0x342a6E47DaFcEdca1F2388B9F24EecF0dDf8530e</p>
                     <p className="mt-4">USDC on ETH L1 Only</p>
+
+                    <p className="mt-4">Or if you are blockchain noob; etransfer your bookie.</p>
+
+                    <p className="mt-4">Market closes at 7pm MST</p>
+
                     <div className="mt-4 flex justify-end gap-4">
                         <button
                             className="px-4 py-2 bg-gray-200 rounded-md"
