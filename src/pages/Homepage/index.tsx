@@ -5,7 +5,6 @@ import BetCard from '../../components/BetCard';
 import Chance from '../../components/Chance';
 import Modal from '../../components/Modal';
 import LineChart from '../../components/Chart';
-// import ApexChart from "../../components/Chart/ApexChart";
 
 import BG3 from '../../assets/images/bg/03.png';
 

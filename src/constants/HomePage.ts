@@ -1,7 +1,6 @@
 
 import Avatar1 from '../assets/images/avatar/1.jpg';
 import Avatar2 from '../assets/images/avatar/2.jpg';
-import Avatar3 from '../assets/images/avatar/3.jpg';
 
 import BG1 from '../assets/images/bg/01.png';
 import BG2 from '../assets/images/bg/02.png';
