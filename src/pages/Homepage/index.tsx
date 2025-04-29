@@ -29,7 +29,7 @@ function HomePage() {
                     <p className="m-0 text-white text-2xl font-bold">LoonieBets</p>
                 </div>
                 <div className="flex justify-center items-end">
-                    <p className="m-0 text-gray-100 text-lg">Bet on all things Canada - Under Construction - Sorry Servers Strained; under 30 mins</p>
+                    <p className="m-0 text-gray-100 text-lg">Bet on all things Canada - Under Construction - Sorry Servers Strained; under 5 mins</p>
                 </div>
             </div>
 
