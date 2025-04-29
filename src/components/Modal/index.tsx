@@ -63,6 +63,8 @@ const Modal: React.FC<ModalProps> = ({ isOpen, onClose }) => {
                     <p className="mt-4">Or if you are blockchain noob; etransfer your bookie.</p>
 
                     <p className="mt-4">Market closes at 7pm MST</p>
+                    <p className="mt-4">Market is now closed; please do not make any blockchain payments</p>
+
 
                     <div className="mt-4 flex justify-end gap-4">
                         <button
