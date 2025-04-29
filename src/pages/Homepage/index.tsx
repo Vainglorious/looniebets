@@ -54,7 +54,7 @@ function HomePage() {
 
             {/* <---- Container ---> */}
             <div className='xl:max-w-6xl lg:max-w-4xl xs:max-w-[90%] m-auto'>
-                <div className='w-100 mt-[80px] border-[1px] border-gray-200 rounded-md bg-gray-100'>
+                <div className='w-100 mt-[80px] border-[1px] border-gray-200 rounded-md bg-gray-300'>
                     <div className='md:block lg:flex justify-between items-center p-4 gap-4'>
 
                         {/* <---- Bet Cards ---> */}
