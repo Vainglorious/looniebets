@@ -10,14 +10,14 @@ const chartData = {
     datasets: [
         {
             label: 'Peter Poilievre',
-            data: [80, 65, 50, 37, 35, 15, 32],
+            data: [80, 65, 50, 37, 35, 15, 55],
             borderColor: 'rgba(75,192,192,1)',
             backgroundColor: 'rgba(75,192,192,0.2)',
             fill: true,
         },
         {
             label: 'Mark Carney',
-            data: [20, 35, 50, 63, 65, 85, 68],
+            data: [20, 35, 50, 63, 65, 85, 45],
             borderColor: 'rgba(75,192,19,1)',
             backgroundColor: 'rgba(175,192,192,0.2)',
             fill: true,
