@@ -9,14 +9,14 @@ export const BET_DATA = [
     {
         avatar: Avatar1,
         name: 'Peter Poilievre',
-        volume: '6,676',
-        percentage: 50
+        volume: '8,632',
+        percentage: 41
     },
     {
         avatar: Avatar2,
         name: 'Mark Carney',
-        volume: '3,236',
-        percentage: 50
+        volume: '5,215',
+        percentage: 59
     },
 ];
 
