@@ -59,7 +59,7 @@ function HomePage() {
 
                         {/* <---- Bet Cards ---> */}
                         <div className="lg:w-1/2">
-                            <h1 className='text-2xl text-black font-semibold'>Who will be the next prime minister?</h1>
+                            <h1 className='text-2xl text-black font-semibold'>Who will be the next prime minister?-Market Closed</h1>
                             <div className="pr-2 mb-3">
                                 {BET_DATA.map((item, index) => (
                                     <BetCard
